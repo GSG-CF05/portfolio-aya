@@ -1,0 +1,69 @@
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: #282747;
+    margin-top: -20px;
+    margin-left: -20px;
+    border-radius: 50%;
+}
+body{
+     font-family: Verdana,Tahoma, sans-serif, 'Arial Narrow Bold', sans-serif;
+     color: #282747;
+     background-color: #F0F0F0;
+margin: 0px;
+
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+
+}
+.portfolio{
+     margin-right: 50%;
+     color: #282747;
+     font-size: 20px;
+
+}
+.nav{
+    margin-top: -40px;
+}
+.header  {
+    display: flex;
+    margin-top: 30px;
+}
+.user{
+   margin-left: 120px; 
+   margin-top: 38px;
+}
+.btn-portfolio{
+    background-color: #282747;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: #282747  ;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.name{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.about{
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+.about-details{
+     display: flex;
+     margin-top: -50px; 
+     background-color: white;
+
+}
+.details{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.user-about{
+    margin-left: 80px;
+    width: 400px;
+}
